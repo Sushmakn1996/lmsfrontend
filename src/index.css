@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img {
+  width: 480px;
+  height: 400px;
+}
+#button{
+  width: 100%;
+}
+
+/* .image {
+  height: 100%;
+  width: 100%;
+} */
+
+.sideicon{
+  width: 22px;
+  height: 22px;
+}
+
+.input-group.md-form.form-sm.form-1 input {
+  border: 1px solid #bdbdbd;
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
